@@ -45,7 +45,7 @@ Este projeto aplica **Machine Learning** na análise de dados clínicos relacion
    - Identificação de variáveis mais relevantes usando **SHAP** e **Feature Importance**.
    - Visualização dos impactos das variáveis no modelo com gráficos de swarm e waterfall.
 
-**Figura 3: Importância das Variáveis com SHAP.**
+**Figura 3: Avaliação de Correlação**
 ![img](/img/fig3.png)
 
 ### 6. **Validação e Comparação de Modelos**  
